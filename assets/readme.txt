@@ -1,0 +1,1 @@
+This folder is the path where background image will get saved after running background.py file
